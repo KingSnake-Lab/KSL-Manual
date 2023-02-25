@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"6ebb84feecb7517d","x":-354,"y":-868,"width":932,"height":400,"type":"file","file":"SERVER-LAB/Documentación del servidor.md"},
+		{"id":"b16eccf8cc425ff8","x":-354,"y":-410,"width":250,"height":203,"color":"5","type":"text","text":"Server-Lab\n\t10.0.48.15\n\t\nUsuario:\n\tlab\nPass:\n\tadmin\n"},
+		{"id":"d60f0d2384cb4bf1","x":-354,"y":-112,"width":250,"height":123,"type":"text","text":"/Usuarios\nCarpetas personales\n\n->Repositorios"},
+		{"id":"b0fbb1a8c5049a0c","x":-280,"y":155,"width":250,"height":123,"type":"text","text":"Herramientas de prueba\n-Firebase hosting\n-Heroku"},
+		{"id":"870df9073e139fd5","x":414,"y":-380,"width":328,"height":144,"color":"6","type":"text","text":"GitHub Organización\n\n-> Repositorios(personales/equipo)\n"},
+		{"id":"e8e0c1d3d81f6efe","x":331,"y":134,"width":316,"height":144,"color":"4","type":"text","text":"EQUIPOS LOCALES.\n\nLas computadoras personales de los miembros de equipo.\n-> Repositorios"}
+	],
+	"edges":[
+		{"id":"fe573f5f462c4bc9","fromNode":"6ebb84feecb7517d","fromSide":"left","toNode":"b16eccf8cc425ff8","toSide":"left"},
+		{"id":"5976a93b67ec4d52","fromNode":"b16eccf8cc425ff8","fromSide":"left","toNode":"6ebb84feecb7517d","toSide":"left"},
+		{"id":"042c06fddfb6495c","fromNode":"e8e0c1d3d81f6efe","fromSide":"top","toNode":"b16eccf8cc425ff8","toSide":"right"},
+		{"id":"9e24dd340643819a","fromNode":"b16eccf8cc425ff8","fromSide":"bottom","toNode":"d60f0d2384cb4bf1","toSide":"top"},
+		{"id":"42e77f85be8f787a","fromNode":"d60f0d2384cb4bf1","fromSide":"right","toNode":"b0fbb1a8c5049a0c","toSide":"top"},
+		{"id":"ceeb1bfe1fc6f5cf","fromNode":"e8e0c1d3d81f6efe","fromSide":"top","toNode":"870df9073e139fd5","toSide":"bottom"},
+		{"id":"eef88c86e31fad34","fromNode":"d60f0d2384cb4bf1","fromSide":"right","toNode":"870df9073e139fd5","toSide":"left"},
+		{"id":"e80d60a3f83885c2","fromNode":"870df9073e139fd5","fromSide":"top","toNode":"d60f0d2384cb4bf1","toSide":"right"},
+		{"id":"7488580493287144","fromNode":"e8e0c1d3d81f6efe","fromSide":"left","toNode":"b0fbb1a8c5049a0c","toSide":"right"}
+	]
+}
