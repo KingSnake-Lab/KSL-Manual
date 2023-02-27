@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "20a2ebedb08b095c",
+        "id": "81d79429e34793d3",
         "type": "tabs",
         "children": [
           {
-            "id": "ac10088a8491263f",
+            "id": "87d9dfccb35beb65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SERVER-LAB/Documentación del servidor.md",
+                "file": "SERVER-LAB/Herramientas/Heroku.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SERVER-LAB/Documentación del servidor.md",
+                "file": "SERVER-LAB/Herramientas/Heroku.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SERVER-LAB/Documentación del servidor.md",
+                "file": "SERVER-LAB/Herramientas/Heroku.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SERVER-LAB/Documentación del servidor.md"
+                "file": "SERVER-LAB/Herramientas/Heroku.md"
               }
             }
           }
@@ -146,15 +146,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ac10088a8491263f",
+  "active": "87d9dfccb35beb65",
   "lastOpenFiles": [
+    "SERVER-LAB/Herramientas/OpenSSH.md",
+    "SERVER-LAB/Herramientas/Heroku.md",
     "SERVER-LAB/Comandos básicos de Linux Ubuntu Server.md",
     "SERVER-LAB/Herramientas/Apache server.md",
-    "SERVER-LAB/Herramientas/Firebase.md",
     "SERVER-LAB/Documentación del servidor.md",
-    "SERVER-LAB/Herramientas/Heroku.md",
+    "SERVER-LAB/Herramientas/Firebase.md",
     "SERVER-LAB/Herramientas/Git.md",
-    "SERVER-LAB/Herramientas/OpenSSH.md",
     "SERVER-LAB/Herramientas",
     "Untitled",
     "Flujo de trabajo.canvas"
