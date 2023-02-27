@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b3fcdb0829f6d60",
+        "id": "acfaa5d50699420e",
         "type": "tabs",
         "children": [
           {
-            "id": "85308031de202980",
+            "id": "6b9eff4d91318981",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,14 +138,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "85308031de202980",
+  "active": "6b9eff4d91318981",
   "lastOpenFiles": [
+    "SERVER-LAB/Obtención de Token con GitHub.md",
+    "Pasted image 20230227124653.png",
+    "Pasted image 20230227124557.png",
+    "Pasted image 20230227124524.png",
+    "Pasted image 20230227124413.png",
     "SERVER-LAB/Comandos básicos de Linux Ubuntu Server.md",
     "SERVER-LAB/Herramientas/Git.md",
     "SERVER-LAB/Herramientas/Firebase.md",
     "SERVER-LAB/Herramientas/Apache server.md",
     "SERVER-LAB/Herramientas/Heroku.md",
-    "SERVER-LAB/Obtención de Token con GitHub.md",
     "SERVER-LAB/Herramientas/OpenSSH.md",
     "SERVER-LAB/Documentación del servidor.md",
     "SERVER-LAB/Herramientas",
