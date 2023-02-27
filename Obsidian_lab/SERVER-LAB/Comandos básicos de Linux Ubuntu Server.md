@@ -6,6 +6,14 @@ Aunque los pasos pueden diferir según la distribución que estés utilizando, g
 
 Aquí hay una lista de comandos básicos de Linux:
 
+
+## Actualizar sistema
+#update #upgrade
+Por supuesto, Ubuntu nos permite bajar e instalar las nuevas actualizaciones y los nuevos paquetes desde su Terminal. Para ello, ejecutamos una ventana de terminal en la distro y ejecutaremos el siguiente comando, el cual actualizará las listas de software:
+
+`sudo apt update`  -> Actualiza  los archivos del sistema operativo
+`sudo apt upgrade` ->Actualiza a la versión más nueva de los programas instalados
+
 #directorio
 ### 1. comando pwd
 
