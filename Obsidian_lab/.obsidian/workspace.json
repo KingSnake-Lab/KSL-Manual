@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SERVER-LAB/Herramientas/Apache server.md",
+                "file": "SERVER-LAB/Documentación del servidor.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SERVER-LAB/Herramientas/Apache server.md",
+                "file": "SERVER-LAB/Documentación del servidor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SERVER-LAB/Herramientas/Apache server.md",
+                "file": "SERVER-LAB/Documentación del servidor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SERVER-LAB/Herramientas/Apache server.md"
+                "file": "SERVER-LAB/Documentación del servidor.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "ac10088a8491263f",
   "lastOpenFiles": [
-    "SERVER-LAB/Herramientas/Firebase.md",
-    "SERVER-LAB/Herramientas/Apache server.md",
     "SERVER-LAB/Comandos básicos de Linux Ubuntu Server.md",
+    "SERVER-LAB/Herramientas/Apache server.md",
+    "SERVER-LAB/Herramientas/Firebase.md",
     "SERVER-LAB/Documentación del servidor.md",
     "SERVER-LAB/Herramientas/Heroku.md",
     "SERVER-LAB/Herramientas/Git.md",
